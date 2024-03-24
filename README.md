@@ -1,4 +1,4 @@
-# ![pixelart_alexander](https://github.com/alessanderdev/alexanderdev/assets/153397226/2d46d73f-a7c2-45a4-b3c2-12e3a9a62e4d) Hola, mi nombre es Alexander Luyo 👋 
+# ![pixelart_alexander](https://github.com/alessanderdev/alessanderdev/assets/153397226/d592b2ea-6064-4cf2-8c90-10ecb5e2f89d) Hola, mi nombre es Alexander Luyo 👋 
 ### Ingeniero de Sistemas e informatica 💻 | Analista de Datos 📈
 
 ![FONDO](https://github.com/alessanderdev/alessanderdev/assets/153397226/f5a3f9b0-07fa-4af3-a978-2bf6850b4747)
