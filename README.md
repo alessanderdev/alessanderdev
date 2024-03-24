@@ -1,14 +1,7 @@
 # ![pixelart_alexander](https://github.com/alessanderdev/alexanderdev/assets/153397226/2d46d73f-a7c2-45a4-b3c2-12e3a9a62e4d) Hola, mi nombre es Alexander Luyo 👋 
 ### Ingeniero de Sistemas e informatica 💻 | Analista de Datos 📈
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![FONDO](https://github.com/alessanderdev/alessanderdev/assets/153397226/f5a3f9b0-07fa-4af3-a978-2bf6850b4747)
 
  Soy un joven entusiasta de la programación con una pasión ardiente por el mundo de la tecnología. Con 29 años de edad y a punto de graduarme como Ingeniero de Sistemas e Informática, estoy ansioso por embarcarme en una carrera llena de desafíos y oportunidades emocionantes.
 
@@ -21,6 +14,11 @@ Estoy emocionado por la oportunidad de colaborar en proyectos desafiantes que me
 Estoy aquí para aprender, crecer y hacer una diferencia. ¡Siempre abierto a nuevas oportunidades y listo para sumergirme en emocionantes proyectos! ¡No dudes en contactarme si crees que puedo ser de ayuda en tu próximo desafío tecnológico!
 
 > 📚 Universidad Tecnologica del Perú (UTP)
+
+## 💻 Sofware Favorite:
+| Python |    SQL    | JavaScript |
+| ------ | --- | ---------- |
+| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> |
 
 
 ## 🌐 Redes Sociales:
