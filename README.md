@@ -10,7 +10,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Futuro egresado de Ingeniería de Sistemas con sólidos conocimientos en análisis de datos y desarrollo web en un nivel intermedio. Experimentado en el uso de herramientas como Excel, SQL y Python para el procesamiento y análisis de datos. Además, poseo habilidades en programación web utilizando JavaScript, HTML y CSS a un nivel intermedio. Apasionado por aprender y crecer en entornos desafiantes, con una base sólida en los principios de ingeniería de sistemas.
+ Soy un joven entusiasta de la programación con una pasión ardiente por el mundo de la tecnología. Con 29 años de edad y a punto de graduarme como Ingeniero de Sistemas e Informática, estoy ansioso por embarcarme en una carrera llena de desafíos y oportunidades emocionantes.
+
+Desde mis primeros días en la carrera de Computación e Informática, he estado inmerso en el fascinante mundo de la programación y el análisis de datos. Mi sed insaciable de conocimiento me ha llevado a explorar nuevas tecnologías y metodologías, siempre buscando mejorar mis habilidades y superar mis límites.
+
+Mi verdadera pasión radica en el análisis de datos, donde encuentro una mezcla perfecta entre creatividad y lógica. Me encanta descubrir patrones ocultos en los datos y utilizarlos para generar ideas innovadoras y soluciones prácticas.
+
+Estoy emocionado por la oportunidad de colaborar en proyectos desafiantes que me permitan aplicar mis habilidades y contribuir al éxito del equipo. Mi objetivo es seguir creciendo como profesional y estar siempre al tanto de las últimas tendencias y tecnologías en el campo de la programación y la ciencia de datos.
+
+Estoy aquí para aprender, crecer y hacer una diferencia. ¡Siempre abierto a nuevas oportunidades y listo para sumergirme en emocionantes proyectos! ¡No dudes en contactarme si crees que puedo ser de ayuda en tu próximo desafío tecnológico!
 
 > 📚 Universidad Tecnologica del Perú (UTP)
 
